@@ -94,6 +94,6 @@ The initial hypothesis is not supported strongly enough for a novelty/superiorit
 
 `tests/test_network.py` — protocol, process, restart and end-to-end checks.
 
-`.github/workflows/test.yml` — test workflow ready for this directory to become a standalone GitHub repository; the remote workflow has not been run here.
+`.github/workflows/test.yml` — automated tests on Python 3.11, 3.12 and 3.13. All three jobs passed in the [initial GitHub Actions run](https://github.com/GentilleUwera/isoko/actions/runs/34031300419).
 
 Repository: https://github.com/GentilleUwera/isoko. Licensing and final authorship should be agreed with the team; no open-source license has been selected yet.
